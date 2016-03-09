@@ -1,0 +1,75 @@
+
+
+body {
+	
+	
+	text-align: center;
+
+}
+
+
+.semitte {
+	
+	height: 510px;
+	width: 182px;
+	
+}
+
+.serechts {
+	
+	height: 514px;
+	width: 222px;
+	
+}
+
+.selinks {
+	
+	height: 513px;
+	width: 159px;
+	
+}
+
+.ui-page .ui-header {
+    
+	background:  black; !important;
+}
+
+.ui-footer .ui-title {
+	
+	background:  black; !important;
+
+}
+.ui-footer .ui-title {
+     
+	 margin: auto;
+}
+
+div h1 {
+	
+	font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: white;
+	font-style: normal;
+	font-variant: normal;
+	
+}
+
+div h4 {
+	
+	font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	color: white;
+	font-style: normal;
+	font-variant: normal;
+	
+}
+
+div h2 {
+	
+	color: black;
+	font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: 0 0 1px grey;
+	
+}
+
+
